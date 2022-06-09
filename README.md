@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sammyyap98
-- 👀 I’m interested in Deep Learning/Machine Learning
+
 
 
 <!---
