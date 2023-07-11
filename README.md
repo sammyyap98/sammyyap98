@@ -1,5 +1,3 @@
-Hi
-
 
 <!---
 sammyyap98/sammyyap98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
